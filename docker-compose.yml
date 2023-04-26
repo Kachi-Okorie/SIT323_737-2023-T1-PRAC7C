@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  sit3237372023t1prac5p:
+    image: sit3237372023t1prac5p
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - 3040:3040
+    healthcheck:
+      test: curl --fail http://localhost || exit 1
+      interval: 60s
+      retries: 3
+      start_period: 20s
+      timeout: 10s

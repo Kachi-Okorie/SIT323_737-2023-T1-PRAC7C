@@ -1,22 +1,23 @@
 {
-  "name": "SIT323_737-2023-T1-PRAC7P",
+  "name": "sit323-737-2023-t1-prac5p",
   "version": "1.0.0",
-  "description": "Simple Web Server",
-  "main": "index.js",
+  "description": "",
+  "main": "week4_code.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kachi-Okorie/SIT323_737-2023-T1-PRAC7P.git"
+    "url": "git+https://github.com/Kachi-Okorie/sit323-737-2023-t1-prac5p.git"
   },
   "author": "Onyedikachi Okorie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kachi-Okorie/SIT323_737-2023-T1-PRAC7P/issues"
+    "url": "https://github.com/Kachi-Okorie/sit323-737-2023-t1-prac5p/issues"
   },
-  "homepage": "https://github.com/Kachi-Okorie/SIT323_737-2023-T1-PRAC7P#readme",
+  "homepage": "https://github.com/Kachi-Okorie/sit323-737-2023-t1-prac5p#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "winston": "^3.8.2"
   }
 }
