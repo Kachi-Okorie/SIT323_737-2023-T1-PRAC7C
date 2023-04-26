@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: kachio/simplemicrocalculator
+        image: kachio/updatedmicrocalculator
         imagePullPolicy: Always
         ports:
         - containerPort: 3040

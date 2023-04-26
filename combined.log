@@ -6,3 +6,4 @@
 {"level":"info","message":"Parameters 63 and 9 received for division","service":"calculate-service"}
 {"level":"info","message":"Parameters 63 and 9 received for division","service":"calculate-service"}
 {"level":"info","message":"Parameters 72 and 9 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 72 and 9 received for multiplication and division","service":"calculate-service"}
