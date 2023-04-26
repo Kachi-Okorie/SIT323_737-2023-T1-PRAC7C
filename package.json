@@ -1,0 +1,22 @@
+{
+  "name": "SIT323_737-2023-T1-PRAC7P",
+  "version": "1.0.0",
+  "description": "Simple Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kachi-Okorie/SIT323_737-2023-T1-PRAC7P.git"
+  },
+  "author": "Onyedikachi Okorie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kachi-Okorie/SIT323_737-2023-T1-PRAC7P/issues"
+  },
+  "homepage": "https://github.com/Kachi-Okorie/SIT323_737-2023-T1-PRAC7P#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
